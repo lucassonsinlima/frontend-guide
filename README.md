@@ -27,6 +27,7 @@ Chapter 3 - JS
 
 - About the Language, interpreted language (compiled nuance about)
 - Funfact about console.log + alert, related with browser engines
+- Talk about Objects and References (important note to our daily tasks, we casually mutate objects)
 - Quick Intro about JS compile / transpile and browser engine steps
 - fig 1
 ![image](https://user-images.githubusercontent.com/25435624/145222215-8dc0de8f-9fe0-4a6b-90c4-c20d34817a82.png)
