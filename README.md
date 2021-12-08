@@ -42,7 +42,7 @@ Exercising:
  - Consume some open API to populate our News Feed, refactor the code to style our new feed.
  
 - Some JS Patterns
-- Factory adn JS Observer Pattern (not extending so much, this can be very long, talk about subscribers, watchers etc...)
+- Factory and JS Observer Pattern (not extending so much, this can be very long, talk about subscribers, watchers etc...)
 - Using Observer Pattern in some peace of News Journal code ("like" and "dislike" articles? Update "likes" counter? Some simple feature)
 
  (depending on seniority, we can skip some steps and go for VueJS steps)
