@@ -18,6 +18,7 @@ Chapter 2 - CSS
 - How CSS relates with HTML
 - Pure CSS, SCSS (show another CSS pre processor, only for curiosity)
 - Some daily CSS tricks that can explode our head if we dont know about it
+  - notes: add those properties here
 
 Exercising:
 - Style the News Journal page with pure CSS, and after that, style using SCSS
@@ -57,7 +58,10 @@ Exercising:
 Exercising:
 - Refactor our News Application to VueJS using Everest Components and Tokens (make a result App)
 
-
+Extra:
+- add articles
+- remove articles
+- some extra features related with News Journal
 -------------
 
 Some Ideas:
