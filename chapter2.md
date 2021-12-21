@@ -12,3 +12,18 @@ Neste [link](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with
 
 Pode parecer estranho mas essa etapa é crucial entre um desenvolvimento de um componente que vai ser escalável ou um componente problemático que vai acabar passando por refactors ao longo da vida.
 
+...
+
+
+### Semântica
+
+
+### Dicas ao pensar em Semântica
+
+
+### Atributos
+
+
+### Acessibilidade durante o Desenvolvimento, é muito mais esforço?
+
+
